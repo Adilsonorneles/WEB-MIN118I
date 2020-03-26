@@ -9,3 +9,4 @@ Material de apoio da disciplina de Desenvolvimento de Sistemas WEB do curso Inte
     <a href="atividades/atv01/atv01.pdf"> 01 </a> <a href="atividades/atv01/resposta"> (Resp) </a> 
   | <a href="atividades/atv02/atv02.pdf"> 02 </a> <a href="atividades/atv02/resposta"> (Resp) </a> 
   | <a href="atividades/atv03/atv03.pdf"> 03 </a>  
+- <a href="aulas/02%20-%20CSS/02%20-%20CSS.pdf"> 02 - CSS </a>
